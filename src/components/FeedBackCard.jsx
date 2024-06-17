@@ -1,7 +1,7 @@
 
 const FeedBackCard = () => {
   return (
-    <div>FeedBackCard</div>
+    <div>FeedBackCard this is feedback page</div>
   )
 }
 
